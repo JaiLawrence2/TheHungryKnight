@@ -15,3 +15,5 @@ This was my first lab assignment in my Java class and these were the steps we ha
 10. Minor formatting variations are expected. You do not need to be exact on the white space to earn full points on this assignment.  A couple of extra lines or not is not an issue as long as your output is legible.
 11. Include comments in your code as required to document your code and improve readability. (5 points.)
 12. You may assume that all user input entered by the user is correct. No user input validation is required in this assignment.  No decimal point formatting is required in this assignment.
+
+  This assignment basically taught the simple things about Java such as calculating a total, getting input from the user, and correctly formatting print statements to the console
